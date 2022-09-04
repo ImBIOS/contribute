@@ -43,7 +43,7 @@ You can run `nr lint --fix` to let ESLint formats and lints the code.
 
 Learn more about the [ESLint Setup](#eslint).
 
-[**We don't use Prettier**](#no-prettier).
+[**We don't use Prettier**](#no-prettier) (We use it actually, but currently TODO: the configuration is not published yet).
 
 ### `nr test`
 
